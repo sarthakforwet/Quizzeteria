@@ -38,7 +38,7 @@ The description of each round is as follows-
 
 # <a name="toa"></a>Table of Allocation
 
-|Topics| Department| Link|
+|Topic| Department| Link|
 |----| ----| ----|
 |General Knowledge| Management| [Management](https://docs.google.com/document/d/1DSKd2srQ2bsPCFN9r3k72hxGc2fGXSFL9prp7OTgNTU/edit?usp=sharing)|
 |Aptitude| CP| [Aptitude](https://docs.google.com/document/d/1uL7mYEHp1xszFHYL-ki7XXLHo0Gc3lvfVfaUNpySpL8/edit?usp=sharing)|
