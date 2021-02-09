@@ -32,7 +32,7 @@ The description of each round is as follows-
 5. <a name="rquestion"></a>**Real Time Questionnaire**: The participant teams would be asked a series of questions in real time by an instructor (or set of instructors). This would be a *1 x 1* round and all team members would be asked individually. The team with most fast and greater number of correct answers would get selected.
 
 <div align="center">
-<img src="../quizzet.png">
+<img src="./quizzet.png">
 <p ><b>Information of various Rounds at Quizzeteria.</b></p>
 </div>
 
