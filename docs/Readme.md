@@ -11,6 +11,7 @@ Quizzeteria, resembling something like collection of quizzes and so it does!! Th
      * [Real Time Questionnaire](#rquestion)
 * [Table of Allocation](#toa)
 * [Sponsors](#spons)
+* [Questions per topic](#qptopic)
 
 <!-- vscode-markdown-toc-config
     numbering=true
@@ -51,7 +52,10 @@ The description of each round is as follows-
 |Science| Mobile Development| [Mobile Development](https://docs.google.com/document/d/1H-Ex9ea1PP-m2afyrJL7FckfFCDVgGezPcGE26HkkAA/edit?usp=sharing)|
 |Vocabulary/Grammar| Machine Learning| [Machine Learning](https://docs.google.com/document/d/1tr5HxPmEBPtd8CJbuN_pZkkF-gLHE58b_tO3lsuSJQE/edit?usp=sharing)|
 
+
+# <a name="qptopic"></a>Questions per topic
 For each topic, the corresponding department has to collect the questions in following way-
+
 |Round|Number of questions|
 |----|----|
 |Written Quiz|3 + 5|
