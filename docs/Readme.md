@@ -21,9 +21,9 @@ Quizzeteria, resembling something like collection of quizzes and so it does!! Th
 # <a name="rounds"></a>Rounds
 The description of each round is as follows-
 
-1. <a name="wquiz"></a>**Written Quiz:** Conducted on *Google forms*, this quiz would test the knowledge based capabilities of the participants. There would be a total of *30 questions* which need to be answered in about *15-20 mins*. Total of *50 teams* are to be selected after this quiz. *(tentative)*
+1. <a name="wquiz"></a>**Written Quiz:** Conducted on *Google forms*, this quiz would test the knowledge based capabilities of the participants. There would be a total of *30 questions* which need to be answered in about *15 mins*. Total of *50 teams* are to be selected after this quiz. *(tentative)*
 
-2. <a name="rfire"></a>**Rapid Fire**: As usual, teams would be asked a series of questions rapidly based upon a topic chosen from the list of provided topics. Topics list could contain *5 topics* of interest and selection of a topic is mandatory. Failing to do so would lead to start of the round with topics chosen by the instructor. The mode of this round would be a *Zoom meeting* in which participants would be required to keep their *video and audio* enabled. The ones who'd raise hand earlier would be given priority accordingly. There would be *10 slots* with *5 teams* in each slot (50 teams) and *10 questions* would be asked from each team. The total of *30 teams* are to be selected from this round.*(tentative)*
+2. <a name="rfire"></a>**Rapid Fire**: As usual, teams would be asked a series of questions rapidly based upon a topic chosen from the list of provided topics. Topics list could contain *5 topics* of interest and selection of a topic is mandatory. Failing to do so would lead to start of the round with topics chosen by the instructor. The mode of this round would be a *Zoom meeting* in which participants would be required to keep their *video and audio* enabled. The ones who'd raise hand earlier would be given priority accordingly. There would be *10 slots* with *5 teams* in each slot (50 teams) and a series of *20 questions* would be asked from each team based upon all the topics available. The total of *30 teams* are to be selected from this round.*(tentative)*
 
 3. <a name="rriddle"></a>**Reverse Riddle**: The participants in this round would be given details or hints regarding a particular topic and they have to backtrack to form a *riddle* out of it. This round would be taken on *Zoom* itself. A total of *10 slots* with *3 teams* each would be formed. *2 riddles* would get selected from each slot giving it a total of *20 teams* being selected from this round.
 
@@ -51,4 +51,14 @@ The description of each round is as follows-
 |Science| Mobile Development| [Mobile Development](https://docs.google.com/document/d/1H-Ex9ea1PP-m2afyrJL7FckfFCDVgGezPcGE26HkkAA/edit?usp=sharing)|
 |Vocabulary/Grammar| Machine Learning| [Machine Learning](https://docs.google.com/document/d/1tr5HxPmEBPtd8CJbuN_pZkkF-gLHE58b_tO3lsuSJQE/edit?usp=sharing)|
 
+For each topic, the corresponding department has to collect the questions in following way-
+|Round|Number of questions|
+|----|----|
+|Written Quiz|3 + 5|
+|Rapid Fire|10 + 5|
+|Audio Visual|10 + 5|
+|Real Time Questionnaire|10 + 5|
+||35 + 20|
+
+The rest 20 questions are for backup purposes.
 # <a name="spons"></a> Sponsors
