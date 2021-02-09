@@ -1,7 +1,6 @@
 # Quizzeteria
 Quizzeteria, resembling something like collection of quizzes and so it does!! This Competition consists of a spectacular collection of not mere quizzes but different activities which would be full of fun and learning. You may be aware of some quizzes in it but you have rarely seen them altogether. Performing those activities would be enchanting experience for all of us.
 
-<br></br>
 # Table of Contents
 <!-- vscode-markdown-toc -->
 * [Rounds](#rounds)
@@ -19,7 +18,6 @@ Quizzeteria, resembling something like collection of quizzes and so it does!! Th
     /vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-<br></br>
 # <a name="rounds"></a>Rounds
 The description of each round is as follows-
 
@@ -38,7 +36,6 @@ The description of each round is as follows-
 <p ><b>Information of various Rounds at Quizzeteria.</b></p>
 </div>
 
-<br></br>
 # <a name="toa"></a>Table of Allocation
 |Topics| Department| Link|
 |----| ----| ----|
@@ -53,5 +50,4 @@ The description of each round is as follows-
 |Science| Mobile Development| [Mobile Development](https://docs.google.com/document/d/1H-Ex9ea1PP-m2afyrJL7FckfFCDVgGezPcGE26HkkAA/edit?usp=sharing)|
 |Vocabulary/Grammar| Machine Learning| [Machine Learning](https://docs.google.com/document/d/1tr5HxPmEBPtd8CJbuN_pZkkF-gLHE58b_tO3lsuSJQE/edit?usp=sharing)|
 
-<br></br>
 # <a name="spons"></a> Sponsors
