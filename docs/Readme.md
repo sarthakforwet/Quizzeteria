@@ -42,7 +42,7 @@ The description of each round is as follows-
 |Topic| Department| Link|
 |----| ----| ----|
 |General Knowledge| Management| [Management](https://docs.google.com/document/d/1DSKd2srQ2bsPCFN9r3k72hxGc2fGXSFL9prp7OTgNTU/edit?usp=sharing)|
-|Aptitude| CP| [Aptitude](https://docs.google.com/document/d/1uL7mYEHp1xszFHYL-ki7XXLHo0Gc3lvfVfaUNpySpL8/edit?usp=sharing)|
+|Aptitude| CP| [CP](https://docs.google.com/document/d/1uL7mYEHp1xszFHYL-ki7XXLHo0Gc3lvfVfaUNpySpL8/edit?usp=sharing)|
 |History| Digital Marketing| [Digital Marketing](https://docs.google.com/document/d/1vSzwRwbOpUGp1RcOMIDWr1UiMOF5UINgZq5KYkh9RuE/edit?usp=sharing)|
 |Mythology| Elektra| [Elektra](https://docs.google.com/document/d/1ENJkxrj70kHvJog54b1QhqJdzx6-mHORTpGiih9FDv4/edit?usp=sharing)|
 |Current Affairs| Content and ideation| [Content & Ideation](https://docs.google.com/document/d/1AkU6XTUUUZsSCJtB1cLAGDmZuwSAuicMdG6iROQeidE/edit?usp=sharing)|
