@@ -1,5 +1,5 @@
 # Quizzeteria
-Quizzeteria, resembling something like collection of quizzes and so it does!! This Competition consists of a spectacular collection of not mere quizzes but different activities which would be full of fun and learning. You may be aware of some quizzes in it but you have rarely seen them altogether. Performing those activities would be enchanting experience for all of us.
+Quizzeteria, a quiz competition consisting of a spectacular quiz rounds which would be full of fun and learning. You may be aware of some rounds in it but you have rarely seen them altogether. Performing those activities would be a captivating experience for all of us.
 
 ### Event Detail
 Each team would comprise of 4 members with a nominal fees of ₹100 per team.
